@@ -1,0 +1,15 @@
+v e v -> v   <---- Operadores binários
+v e f -> f
+f e ? -> f
+
+v ou ? -> v  <---- Operadores binários
+f ou v -> v 
+f ou f -> f
+
+v xor v -> f  <---- Operadores binários
+v xor f -> v
+f xor v -> v
+f xor f -> f 
+
+!v -> f  <---- Operadores unários
+!f -> v
