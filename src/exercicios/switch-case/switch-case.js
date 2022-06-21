@@ -37,4 +37,4 @@ const calculaMedia = function (nota) {
   }
 }
 
-calculaMedia(3)
+calculaMedia(12)
